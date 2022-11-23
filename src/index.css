@@ -1,10 +1,8 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+ 
+  background-image: url(https://mobimg.b-cdn.net/v3/fetch/99/99b1f94e983b079412fd1c56fff58e75.jpeg);
+  background-repeat: no-repeat;
+  background-size: 100%;
 }
 
 code {
